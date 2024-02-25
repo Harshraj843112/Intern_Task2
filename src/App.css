@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+/* In your CSS file, such as index.css or App.css */
+.dark-mode {
+  background-color: #333; /* Dark background */
+  color: #fff; /* Light text */
+}
+
